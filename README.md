@@ -25,8 +25,8 @@
 ## 🖥️ Tech Stack
 
 - <img alt="React Logo" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="25"> **React** — Frontend framework  
-- <img alt="React Logo" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="25"> **Tailwind CSS** — Modern, responsive styling  
-- <img alt="React Logo" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="25"> **Vite** — Fast development and build tooling  
+- <img alt="TailwindCSS Logo" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="25"> **Tailwind CSS** — Modern, responsive styling  
+- <img alt="NextJS Logo" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="25"> **NextJS** — Fast development and build tooling
 
 ---
 
