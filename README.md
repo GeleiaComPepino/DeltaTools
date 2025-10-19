@@ -1,11 +1,5 @@
 <p align="center">
-  <picture>
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/76508730-94ba-4cc1-8055-fdf2d1caccf9">
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e0ad9a4a-a6e6-4558-a4fe-151e8c747a05">
-    <img alt="Delta Tools Logo" src="https://github.com/user-attachments/assets/e0ad9a4a-a6e6-4558-a4fe-151e8c747a05" width="500">
-  </picture>
+  <img src="https://github.com/user-attachments/assets/699c7eff-c64f-4185-a962-d4443d8ec0fb" width="500" height="500"></img>
 </p>
 
 <h1 align="center"> Delta.tools — Your All-in-One Toolbox Modular System</h1>
